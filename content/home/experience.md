@@ -33,34 +33,47 @@ experience:
         Responsibilities include:
         
         * Cloud Security
-        * Red Teamming
+        * Red Team Assessment
+        * Container Security
+        * Open-Source Vulnerability Management
         * Application Security
         * SAST/DAST Security
         * Security Research
         
   - title: InfoSec Analyst
-    company: AQM Technology Pvt.Ltd
+    company: AQM Technologies Pvt.Ltd
     company_url: 'https://aqmtechnologies.com/'
-    company_logo: org-x
+    company_logo: org-gc
     location: Mumbai
     date_start: '2017-10-01'
-    date_end: '2020-08-31'
-    description: Team Lead | Web Application Security | Mobile Application Security | WIFI Security | Security Research
-    
-  - title: Security Engineer
-    company: CornerStone On Demand
-    company_url: 'https://www.cornerstoneondemand.com/'
-    company_logo: org-gc
-    location: California
-    date_start: '2020-09-01'
-    date_end: ''
+    date_end: '2020-08-01'
     description: |2-
         Responsibilities include:
         
-        * Cloud Security
-        * Red Teamming
-        * Application Security
-        * SAST/DAST Security
+        * Team Lead
+        * Red Team Assessment
+        * Web Application Pentests
+        * Mobile Application Pentests
+        * API Security Pentests
+        * Server Security
+        * Web Server/OS Hardning
+        * Wifi Pentest
+        * Network Assessment and Exploitation
+        * Security Research
+    
+  - title: Security Tester
+    company: Apmosys Pvt.Ltd
+    company_url: 'https://apmosys.in/'
+    company_logo: org-gc
+    location: Mumbai
+    date_start: '2016-10-01'
+    date_end: '2017-10-01'
+    description: |2-
+        Responsibilities include:
+        
+        * Web Application Security
+        * Mobile Application Security
+        * API Security
         * Security Research
     
     
