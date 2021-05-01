@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
 - certificate_url: https://www.pentesteracademy.com/activedirectorylab
   date_end: ""
-  date_start: "2020-02-01"
+  date_start: "2021-02-01"
   description: ""
   organization: Pentester Academy
   organization_url: https://www.pentesteracademy.com/
@@ -38,5 +38,13 @@ item:
   organization: EC-Council
   organization_url: https://www.eccouncil.org/
   title: EC Council Certified Security Analyst
+  url:
+- certificate_url: https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/
+  date_end: ""
+  date_start: "2016-03-01"
+  description: 
+  organization: EC-Council
+  organization_url: https://www.eccouncil.org/
+  title: EC Council Certified Ethical Hacker
   url:
 ---
