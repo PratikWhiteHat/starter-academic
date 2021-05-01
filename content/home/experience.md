@@ -37,13 +37,13 @@ experience:
         * Application Security
         * SAST/DAST Security
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: InfoSec Analyst
+    company: AQM Technology Pvt.Ltd
+    company_url: 'https://aqmtechnologies.com/'
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    location: Mumbai
+    date_start: '2017-10-01'
+    date_end: '2020-08-31'
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
