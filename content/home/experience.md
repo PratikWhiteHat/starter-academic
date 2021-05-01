@@ -47,6 +47,16 @@ experience:
     date_end: '2020-08-31'
     description: Team Lead | Web Application Security | Mobile Application Security | WIFI Security | Security Research
     
+  - title: Security Tester
+    company: ApMoSys Pvt.Ltd
+    company_url: 'https://apmosys.in/'
+    company_logo: org-x
+    location: Mumbai
+    date_start: '2016-10-01'
+    date_end: '2017-10-31'
+    description: Web Application Security | Mobile Application Security | WIFI Security | Security Research
+    
+    
 design:
-  columns: '2'
+  columns: '3'
 ---
