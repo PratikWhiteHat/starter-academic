@@ -45,12 +45,7 @@ experience:
     location: Mumbai
     date_start: '2017-10-01'
     date_end: '2020-08-31'
-    description: 
-    Team Lead
-    Web Application Security
-    Mobile Application Security
-    WIFI Security
-    Security Research
+    description: Team Lead | Web Application Security | Mobile Application Security | WIFI Security | Security Research
     
 design:
   columns: '2'
