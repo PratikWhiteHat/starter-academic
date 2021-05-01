@@ -36,6 +36,7 @@ experience:
         * Red Teamming
         * Application Security
         * SAST/DAST Security
+        * Security Research
         
   - title: InfoSec Analyst
     company: AQM Technology Pvt.Ltd
@@ -44,7 +45,13 @@ experience:
     location: Mumbai
     date_start: '2017-10-01'
     date_end: '2020-08-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: 
+    * Team Lead
+    * Web Application Security
+    * Mobile Application Security
+    * API Security
+    * WIFI Security
+    * Security Research
 
 design:
   columns: '2'
