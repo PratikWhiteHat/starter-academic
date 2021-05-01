@@ -1,7 +1,7 @@
 ---
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: experience
+widget: Professional Journey
 
 # This file represents a page section.
 headless: true
@@ -22,24 +22,46 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Security Engineer
+    company: cornerstone On Demand
+    company_url: 'https://www.cornerstoneondemand.com/'
     location: California
-    date_start: '2017-01-01'
-    date_end: ''
+    date_start: 'Sep-2020'
+    date_end: 'Present'
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Cloud Security
+        * SAST/DAST Security
+        * Red Teamming
+        * Web Application Security
+        * Mobile Application Security
+        * API Security.
         
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: InfoSec Analyst 
+    company: AQM Technlogy Pvt.Ltd
+    company_url: 'https://aqmtechnologies.com/'
+    location: Mumbai
+    date_start: 'Oct-2017'
+    date_end: 'Sep-2020'
+    Responsibilities include:
+    
+        * Team Leader
+        * Red Teamming
+        * Web Application Security
+        * Mobile Application Security
+        * API Security.
+    
+ - title: Security Tester 
+   company: AQM Technlogy Pvt.Ltd
+   company_url: 'https://apmosys.in/'
+   location: Mumbai
+   date_start: 'Oct-2016'
+   date_end: 'Oct-2017'
+   Responsibilities include:
+    
+        * Web Application Security
+        * Mobile Application Security
+        * API Security.
+    
 ---
