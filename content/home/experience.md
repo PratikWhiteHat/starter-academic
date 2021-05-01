@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Professional Journey
 subtitle:
 
 # Date format for experience
@@ -32,9 +32,10 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Cloud Security
+        * Red Teamming
+        * Application Security
+        * SAST/DAST Security
         
   - title: Professor of Semiconductor Physics
     company: University X
