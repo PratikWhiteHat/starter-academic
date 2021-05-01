@@ -47,14 +47,21 @@ experience:
     date_end: '2020-08-31'
     description: Team Lead | Web Application Security | Mobile Application Security | WIFI Security | Security Research
     
-  - title: Security Tester
-    company: ApMoSys Pvt.Ltd
-    company_url: 'https://apmosys.in/'
-    company_logo: org-x
-    location: Mumbai
-    date_start: '2016-10-01'
-    date_end: '2017-10-31'
-    description: Web Application Security | Mobile Application Security | WIFI Security | Security Research
+  - title: Security Engineer
+    company: CornerStone On Demand
+    company_url: 'https://www.cornerstoneondemand.com/'
+    company_logo: org-gc
+    location: California
+    date_start: '2020-09-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Cloud Security
+        * Red Teamming
+        * Application Security
+        * SAST/DAST Security
+        * Security Research
     
     
 design:
