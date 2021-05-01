@@ -56,6 +56,6 @@ email: ""
 highlight_name: false
 ---
 
-Pratik Chotaliya is an Information Security Professional working as a Security Engineer at CornerStone On Demand. He has over 4+ years of experince in Application,Mobile and Network security.
+Pratik Chotaliya is an Information Security Professional working as a Security Engineer at CornerStone On Demand. He has over 4+ years of experince in Application,Mobile and Network Security.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
