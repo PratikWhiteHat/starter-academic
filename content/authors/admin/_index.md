@@ -14,7 +14,7 @@ organizations:
   url: https://www.cornerstoneondemand.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Pratik Chotaliya is an Information Security Professional working as a Security Engineer at CornerStone On Demand. He has over 4+ years of experince in application,mobile and network security. 
+bio: Pratik Chotaliya is an Information Security Professional working as a Security Engineer at CornerStone On Demand. He has over 4+ years of experince in Application,Mobile and Network security. 
 
 # Interests to show in About widget
 interests:
