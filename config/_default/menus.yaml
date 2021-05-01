@@ -7,18 +7,15 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Posts
-    url: '#posts'
+  - name: Blog
+    url: 'https://pwhitehat.blogspot.com/'
     weight: 20
-  - name: Projects
-    url: '#projects'
+  - name: Experience
+    url: '#Experience'
     weight: 30
   - name: Talks
-    url: '#talks'
+    url: 'https://null.community/profile/9043-pratik'
     weight: 40
-  - name: Publications
-    url: '#featured'
-    weight: 50
   - name: Contact
     url: '#contact'
     weight: 60
