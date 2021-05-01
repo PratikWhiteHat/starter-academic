@@ -36,7 +36,8 @@ experience:
         * Red Teamming
         * Web Application Security
         * Mobile Application Security
-        * API Security.
+        * API Security
+        * Security Research
         
   - title: InfoSec Analyst 
     company: AQM Technlogy Pvt.Ltd
@@ -50,7 +51,8 @@ experience:
         * Red Teamming
         * Web Application Security
         * Mobile Application Security
-        * API Security.
+        * API Security
+        * Security Research
     
  - title: Security Tester 
    company: AQM Technlogy Pvt.Ltd
@@ -62,6 +64,7 @@ experience:
     
         * Web Application Security
         * Mobile Application Security
-        * API Security.
+        * API Security
+        * Security Research
     
 ---
