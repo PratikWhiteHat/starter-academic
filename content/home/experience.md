@@ -45,7 +45,8 @@ experience:
     location: Mumbai
     date_start: 'Oct-2017'
     date_end: 'Sep-2020'
-    Responsibilities include:
+    description: |2-
+        Responsibilities include:
     
         * Team Leader
         * Red Teamming
@@ -60,7 +61,8 @@ experience:
    location: Mumbai
    date_start: 'Oct-2016'
    date_end: 'Oct-2017'
-   Responsibilities include:
+   description: |2-
+      Responsibilities include:
     
         * Web Application Security
         * Mobile Application Security
