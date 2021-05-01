@@ -1,7 +1,7 @@
 ---
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: Experience
+widget: experience
 
 # This file represents a page section.
 headless: true
@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Professional Journey
+title: Experience
 subtitle:
 
 # Date format for experience
@@ -22,23 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Security Engineer
-    company: Cornerstone On Demand
-    company_url: 'https://www.cornerstoneondemand.com/'
+  - title: CEO
+    company: GenCoin
+    company_url: ''
     company_logo: org-gc
     location: California
     date_start: '2021-01-01'
-    date_end: 'Present'
+    date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Cloud Security
-        * SAST/DAST Security
-        * Red Teamming
-        * Web Application Security
-        * Mobile Application Security
-        * API Security
-        * Security Researche 
+        * Analysing
+        * Modelling
+        * Deploying
         
   - title: Professor of Semiconductor Physics
     company: University X
