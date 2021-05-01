@@ -38,35 +38,5 @@ experience:
         * Mobile Application Security
         * API Security
         * Security Research
-        
-  - title: InfoSec Analyst 
-    company: AQM Technlogy Pvt.Ltd
-    company_url: 'https://aqmtechnologies.com/'
-    location: Mumbai
-    date_start: 'Oct-2017'
-    date_end: 'Sep-2020'
-    description: |2-
-        Responsibilities include:
-    
-        * Team Leader
-        * Red Teamming
-        * Web Application Security
-        * Mobile Application Security
-        * API Security
-        * Security Research
-    
- - title: Security Tester 
-   company: AQM Technlogy Pvt.Ltd
-   company_url: 'https://apmosys.in/'
-   location: Mumbai
-   date_start: 'Oct-2016'
-   date_end: 'Oct-2017'
-   description: |2-
-      Responsibilities include:
-    
-        * Web Application Security
-        * Mobile Application Security
-        * API Security
-        * Security Research
     
 --
