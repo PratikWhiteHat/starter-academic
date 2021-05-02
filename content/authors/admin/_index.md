@@ -27,7 +27,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: P.G in Information Technology 
+  - course: Post Graduation in Information Technology 
     institution: Mumbai University
     year: 2014
 
