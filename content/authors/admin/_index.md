@@ -24,6 +24,13 @@ interests:
 - Building and Breaking Stuff
 - Researching in Pentesting
 
+# Education to show in About widget
+education:
+  courses:
+  - course: P.G in Information Technology 
+    institution: Mumbai University
+    year: 2014
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
