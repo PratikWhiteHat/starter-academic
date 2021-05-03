@@ -30,7 +30,7 @@ item:
   description: ""
   organization: Offensive Security
   organization_url: https://www.offensive-security.com/pwk-oscp/
-  title: OSCP Pursing
+  title: OSCP Pursuing
   url: ""
 
 - certificate_url: https://www.pentesteracademy.com/activedirectorylab
