@@ -28,7 +28,7 @@ item:
   date_end: ""
   date_start: "2021-04-01"
   description: ""
-  organization: Pentester Academy
+  organization: Offensive Security
   organization_url: https://www.offensive-security.com/pwk-oscp/
   title: OSCP Pursing
   url: ""
