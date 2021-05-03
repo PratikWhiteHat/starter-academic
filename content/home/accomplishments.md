@@ -23,6 +23,16 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+
+- certificate_url: https://www.offensive-security.com/pwk-oscp/
+  date_end: ""
+  date_start: "2021-04-01"
+  description: ""
+  organization: Pentester Academy
+  organization_url: https://www.offensive-security.com/pwk-oscp/
+  title: OSCP Pursing
+  url: ""
+
 - certificate_url: https://www.pentesteracademy.com/activedirectorylab
   date_end: ""
   date_start: "2021-02-01"
